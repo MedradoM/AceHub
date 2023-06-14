@@ -12,7 +12,5 @@
     <img align="center" height="30" width="40" src="https://simpleicons.org/icons/nodedotjs.svg">
   </div>
  </div>
-<div align="center">
-  <a href="https://semidea-fff63.web.app">Follow this link to acess the app</a>
- </div>
+
  
